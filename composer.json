@@ -1,0 +1,11 @@
+{
+  "name": "model/project",
+  "require": {
+    "altorouter/altorouter": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "src/"
+    }
+  }
+}
